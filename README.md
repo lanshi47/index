@@ -21,7 +21,7 @@ Hi 👋 I'm **Lanshi**, an AI & IoT developer passionate about large language mo
 
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- STACKOVERFLOW:START --><tr><td>AI模型与输入输出</td><td>https://lanshi.xyz/studynotes/ai_models_and_input_output/</td></tr><tr><td>LangChain介绍</td><td>https://lanshi.xyz/posts/langchain_introduce/</td></tr><tr><td>API用法示例</td><td>https://lanshi.xyz/studynotes/api_usage_example/</td></tr><tr><td>提示词工程</td><td>https://lanshi.xyz/posts/promptengineering/</td></tr><tr><td>LobeChat 部署 - 服务端</td><td>https://lanshi.xyz/posts/lobechat_deploy/</td></tr><!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:START --><tr><td>视频脚本一键生成器</td><td>https://lanshi.xyz/portfolio/one-click_video_script_generator/</td></tr><tr><td>AI模型与输入输出</td><td>https://lanshi.xyz/studynotes/ai_models_and_input_output/</td></tr><tr><td>LangChain介绍</td><td>https://lanshi.xyz/posts/langchain_introduce/</td></tr><tr><td>API用法示例</td><td>https://lanshi.xyz/studynotes/api_usage_example/</td></tr><tr><td>提示词工程</td><td>https://lanshi.xyz/posts/promptengineering/</td></tr><!-- STACKOVERFLOW:END -->
 </table>
 
 ## 🧩 Featured  Projects
