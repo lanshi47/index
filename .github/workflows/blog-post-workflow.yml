@@ -16,7 +16,6 @@ jobs:
           comment_tag_name: "STACKOVERFLOW"
           feed_list:  "https://lanshi.xyz/index.xml"
           template: "<tr><td>$title</td><td>$url</td></tr>"
-          max_post_count: 10
           
           
           
